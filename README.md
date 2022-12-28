@@ -1,16 +1,14 @@
+
 ### Hi there 👋
+I'm a Software Engineer working in Dundee, Scotland.
 
-<!--
-**JohnNooney/JohnNooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my profile you can find some projects that demo my skillset and interests! Feel free to explore 🙂
 
-Here are some ideas to get you started:
+#### BIO
+- 🏢 I'm currently working at NCR
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.yaml`
+- 🌱 Learning all about Cloud Services - GCP and AWS primarily
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/john-nooney-357738198/)
+- 💬 Ask me about home automation and self-hosting
+- ⚡️ Fun fact: I love baking bread!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
