@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm a Software Engineer working in Dundee, Scotland.
+**I'm a Software Engineer working in Dundee, Scotland.**
 
 In my profile you can find some projects that demo my skillset and interests! Feel free to explore 🙂
 
