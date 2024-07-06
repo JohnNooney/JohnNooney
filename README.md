@@ -6,7 +6,7 @@ In my profile you can find some projects that demo my skillset and interests! Fe
 
 #### BIO
 - 🏢 I'm currently working at [NCR](https://www.ncr.com/)
-- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.yaml`
+- ⚙️ I use daily: `.ts`, `.java`, `.cs`, `.py`, `.yaml`
 - 🌱 Learning all about Cloud Services - GCP and AWS primarily
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/john-nooney-357738198/)
 - 💬 Ask me about home automation and self-hosting
