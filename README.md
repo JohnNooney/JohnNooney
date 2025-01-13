@@ -5,7 +5,7 @@
 In my profile you can find some projects that demo my skillset and interests! Feel free to explore 🙂
 
 #### BIO
-- 🏢 I'm currently working at [NCR](https://www.ncr.com/)
+- 🏢 I'm currently working at [Candescent](https://www.candescent.com/)
 - ⚙️ I use daily: `.ts`, `.java`, `.cs`, `.py`, `.yaml`
 - 🌱 Learning all about Cloud Services - GCP and AWS primarily
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/john-nooney-357738198/)
