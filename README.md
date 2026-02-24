@@ -1,18 +1,17 @@
-### `> whoami`
-Hey 👋 I'm John, a Software Engineer working out of Dundee, Scotland. 
+```shell
+john@dundee:~$ whoami
+Hey 👋 I'm John, a Software Engineer.
+Status: 200 OK (Mostly fueled by coffee)
 
-### `> current_status`
-🏢 Engineering at [Candescent](https://www.candescent.com/) 
+john@dundee:~$ cat current_status.txt
+- 🏢 Engineering at Candescent
+- 🌱 Upskilling in Cloud Services & Agentic Workflows
+- 🏠 Probably optimizing my home automation dashboard, or spinning up a new Docker container to fix a problem caused by my last Docker container.
 
-🌱 Upskilling in Cloud Services & Agentic Workflows 
+john@dundee:~$ echo $TECH_STACK
+[TypeScript, Java, C#, Cassandra, Kafka, Kubernetes]
 
-🏠 Probably optimizing my home automation dashboard or spinning up a new Docker container.
-
-### `> tech_stack`
-`TypeScript` | `Java` | `C#` | `Cassandra` | `Kafka` | `Kubernetes`
-
-### `> ping_me`
-Always down to chat about software, homelabs, and automation.
-
-
-💼 [LinkedIn](https://www.linkedin.com/in/johnnooney)
+john@dundee:~$ ping -c 1 john_nooney
+Always down to chat about software, self-hosting, and automation!
+-> 💼 LinkedIn: https://www.linkedin.com/in/johnnooney
+```
