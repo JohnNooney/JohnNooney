@@ -18,7 +18,7 @@ Always down to chat about software, self-hosting, and automation!
 ---
 
 <details>
-<summary><b><code>john@dundee:~$</code></b> <code>ssh pi@homelab</code> (Click to view Homelab Specs)</summary>
+<summary><code>john@dundee:~$ ssh pi@homelab</code> (Click to view Homelab Specs)</summary>
 
 <br>
 
