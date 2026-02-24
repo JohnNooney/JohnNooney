@@ -1,17 +1,15 @@
-```shell
-john@dundee:~$ whoami
-Hey 👋 I'm John, a Software Engineer.
-Status: 200 OK (Mostly fueled by coffee)
+### `> whoami`
+Hey 👋 I'm John, a Software Engineer working out of Dundee, Scotland. There's no place like `127.0.0.1`.
 
-john@dundee:~$ cat current_status.txt
-- 🏢 Engineering at Candescent
-- 🌱 Upskilling in Cloud Services & Agentic Workflows
-- 🏠 Probably optimizing my home automation dashboard, or spinning up a new Docker container to fix a problem caused by my last Docker container.
+### `> current_status`
+- 🏢 Engineering at [Candescent](https://www.candescent.com/)
+- 🌱 Upskilling in Cloud Services & Agentic Workflows (so I can eventually automate myself out of a job).
+- 🏠 Accidentally taking down my own home network while "optimizing" my Docker containers.
 
-john@dundee:~$ echo $TECH_STACK
-[TypeScript, Java, C#, Cassandra, Kafka, Kubernetes]
+### `> echo $TECH_STACK`
+`TypeScript` | `Java` | `C#` | `Cassandra` | `Kafka` | `Kubernetes`
+*(Warning: May occasionally talk too much about event-driven architecture.)*
 
-john@dundee:~$ ping -c 1 john_nooney
+### `> ping -c 1 john_nooney`
 Always down to chat about software, self-hosting, and automation!
--> 💼 LinkedIn: https://www.linkedin.com/in/johnnooney
-```
+-> 💼 [LinkedIn](https://www.linkedin.com/in/johnnooney)
