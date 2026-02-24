@@ -1,14 +1,14 @@
+### `> whoami`
+Hey 👋 I'm John, a Software Engineer working out of Dundee, Scotland. 
 
-### Hi there 👋
-**I'm a Software Engineer working in Dundee, Scotland.**
+### `> current_status`
+🏢 Engineering at [Candescent](https://www.candescent.com/)
+🌱 Upskilling in Cloud Services & Agentic Workflows
+🏠 Probably optimizing my home automation dashboard or spinning up a new Docker container.
 
-In my profile you can find some projects that demo my skillset and interests! Feel free to explore 🙂
+### `> tech_stack`
+`TypeScript` | `Java` | `C#` | `Cassandra` | `Kafka` | `Kubernetes`
 
-#### BIO
-- 🏢 I'm currently working at [Candescent](https://www.candescent.com/)
-- ⚙️ I use daily: `.ts`, `.java`, `.cs`, `.py`, `.yaml`
-- 🌱 Learning all about Cloud Services - GCP and AWS primarily
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/john-nooney-357738198/)
-- 💬 Ask me about home automation and self-hosting
-- ⚡️ Fun fact: I love baking bread!
-
+### `> ping_me`
+Always down to chat about software, homelabs, and automation.
+- 💼 [LinkedIn](https://www.linkedin.com/in/johnnooney)
