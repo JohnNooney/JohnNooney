@@ -13,4 +13,6 @@ Hey 👋 I'm John, a Software Engineer working out of Dundee, Scotland.
 
 ### `> ping_me`
 Always down to chat about software, homelabs, and automation.
-- 💼 [LinkedIn](https://www.linkedin.com/in/johnnooney)
+
+
+💼 [LinkedIn](https://www.linkedin.com/in/johnnooney)
