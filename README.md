@@ -13,3 +13,28 @@ Status: `200 OK` (Mostly fueled by coffee)
 `john@dundee:~$ ping -c 1 john_nooney`  
 Always down to chat about software, self-hosting, and automation!  
 -> 💼 **LinkedIn:** [johnnooney](https://www.linkedin.com/in/johnnooney)
+
+
+---
+
+<details>
+<summary><b><code>john@dundee:~$</code></b> <code>ssh pi@homelab</code> (Click to view Homelab Specs)</summary>
+
+<br>
+
+`pi@homelab:~$ docker ps`
+
+**Hardware:**
+- 🍓 **Compute:** Raspberry Pi 4
+- 💾 **Storage:** 8TB HDD 
+
+**The Stack:**
+- 🏠 **Home Automation:** Home Assistant
+- 🎬 **Media Server:** Plex
+- 🍿 **Media Management:** Sonarr, Radarr, Lidarr, Prowlarr, Bazarr
+- 📥 **Acquisition:** Transmission + OpenVPN
+- 📸 **Photo Backup:** Immich
+- 📊 **Monitoring & Admin:** Prometheus, Grafana, Cockpit
+
+*(Yes, it's all running on a single Pi 4. Yes, I like to live dangerously.)*
+</details>
