@@ -1,6 +1,5 @@
 `john@github:~$ whoami`  
 Hey 👋 I'm John, a Software Engineer.  
-Status: `200 OK` (Mostly fueled by coffee and oats)
 
 `john@github:~$ cat current_status.txt`  
 - 🏢 Engineering at [Candescent](https://www.candescent.com/)
