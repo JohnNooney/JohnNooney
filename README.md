@@ -2,7 +2,7 @@
 Hey 👋 I'm John, a Software Engineer.  
 
 `john@github:~$ cat current_status.txt`  
-- 🏢 Engineering at [Candescent](https://www.candescent.com/)
+- ⚙️ Building open-source tools for self-hosting and home automation
 - 🌱 Upskilling in Cloud Services & Agentic Workflows
 - 🏠 Probably optimizing my home automation dashboard, or spinning up a new Docker container to fix a problem caused by my last Docker container.
 
